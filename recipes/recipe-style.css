@@ -1,0 +1,33 @@
+h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    height: 300px;
+}
+
+h3, p, ul, ol {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* change the color of the bullets */
+ul li::marker {
+    color: orange;
+}
+
+ol {
+    list-style: none;
+}

@@ -1,0 +1,13 @@
+* {
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+li {
+    list-style: none;
+}
