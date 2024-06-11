@@ -1,13 +1,26 @@
 * {
-    background-color: whitesmoke;
-    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    background-color: whitesmoke;
+    height: auto;
+    width: 400px;
+    border: 3px solid black;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: auto;
 }
 
 h1 {
     font-size: 50px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
 }
 
-li {
-    list-style: none;
+a {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
 }
